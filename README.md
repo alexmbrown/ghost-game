@@ -55,9 +55,12 @@ ability · Tab = scoreboard · Esc = pause (offline) / free the mouse.
 
 It's a static site (`npm run build` → `./out`), so any static host works:
 
-- **GitHub Pages** — push to GitHub, then Settings → Pages → Source: *GitHub Actions*. The included
-  workflow ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)) tests, builds and
-  deploys on every push to `main`. For a custom domain or a `<user>.github.io` repo, add the repo
+- **GitHub Pages (how the live game is hosted)** — `npm run deploy` builds the game for
+  `https://<owner>.github.io/<repo>/` and publishes it to the `gh-pages` branch, which Pages serves
+  (Settings → Pages → Deploy from a branch: `gh-pages`, `/`). The source stays on `main`.
+  To redeploy automatically on every push instead, push the workflow in
+  `.github/workflows/deploy.yml` (it needs a GitHub token with the `workflow` scope) and switch
+  Pages' source to *GitHub Actions*; for a custom domain or a `<user>.github.io` repo, set the repo
   variable `BASE_PATH` = `/`.
 - **Cloudflare Pages** — connect the repo; build command `npm run build`, output directory `out`,
   environment variable `NODE_VERSION=22`.

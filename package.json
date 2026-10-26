@@ -19,7 +19,8 @@
     "assets:index:audio": "tsx scripts/assets.ts --index=audio",
     "gen:audio": "tsx scripts/gen/audio.ts",
     "gen:images": "tsx scripts/gen/images.ts",
-    "gen:models": "tsx scripts/gen/models.ts"
+    "gen:models": "tsx scripts/gen/models.ts",
+    "deploy": "tsx scripts/deploy-pages.ts"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.9",
