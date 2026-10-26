@@ -1,0 +1,37 @@
+{
+  "music/menu_theme.mp3": {
+    "start": 7.24,
+    "end": 63.232,
+    "quality": 0.884
+  },
+  "music/lobby_loop.mp3": {
+    "start": 20.92,
+    "end": 62.384,
+    "quality": 0.759
+  },
+  "music/match_graveyard.mp3": {
+    "start": 46.16,
+    "end": 148.164,
+    "quality": 0.85
+  },
+  "music/match_cornmaze.mp3": {
+    "start": 45.32,
+    "end": 128.459,
+    "quality": 0.765
+  },
+  "music/match_mansion.mp3": {
+    "start": 31.9,
+    "end": 136.03,
+    "quality": 0.903
+  },
+  "music/match_forest.mp3": {
+    "start": 40.02,
+    "end": 122.29,
+    "quality": 0.795
+  },
+  "music/match_library.mp3": {
+    "start": 17.8,
+    "end": 120.667,
+    "quality": 0.765
+  }
+}

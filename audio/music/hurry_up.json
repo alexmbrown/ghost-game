@@ -1,0 +1,12 @@
+{
+ "id": "music.hurry",
+ "request": {
+  "prompt": "Final 20 seconds hurry-up music: same spooky chase energy but faster 170 bpm, ticking clock percussion, rising tension, frantic strings, loopable. Instrumental only.",
+  "music_length_ms": 30000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "OWOhiEPHUvmz6m1vq97e",
+ "bytes": 480698,
+ "created": "2026-10-11T02:06:51.882Z"
+}

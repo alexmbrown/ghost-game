@@ -1,0 +1,12 @@
+{
+ "id": "ui.hover",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Very subtle soft UI hover tick. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.5
+ },
+ "bytes": 8821,
+ "created": "2026-10-11T02:04:18.024Z"
+}

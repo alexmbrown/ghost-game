@@ -1,0 +1,11 @@
+{
+ "id": "vo.rattles.stolen",
+ "voice": "rattles",
+ "voice_id": "Kwqwvj3ClOON6nDrQ07I",
+ "request": {
+  "text": "Hey, that's bone-afide theft!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 44765,
+ "created": "2026-10-11T02:06:28.593Z"
+}

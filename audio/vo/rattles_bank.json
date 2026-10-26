@@ -1,0 +1,11 @@
+{
+ "id": "vo.rattles.bank",
+ "voice": "rattles",
+ "voice_id": "Kwqwvj3ClOON6nDrQ07I",
+ "request": {
+  "text": "Ka-ching! Bank of Bones!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 48527,
+ "created": "2026-10-11T02:06:28.286Z"
+}

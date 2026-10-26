@@ -1,0 +1,12 @@
+{
+ "id": "ui.copy",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Copied-to-clipboard confirmation: a short, soft, satisfying pop with a tiny bright sparkle, clean and simple cartoon game interface sound. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.5
+ },
+ "bytes": 8821,
+ "created": "2026-10-12T01:08:20.124Z"
+}

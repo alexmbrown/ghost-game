@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.haunted_portrait",
+ "source": "assets/raw/models/haunted_portrait/mesh.glb",
+ "triangles": 809,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12db0-5658-73cb-8211-6bacd63f1b9d",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":800,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 123820,
+ "created": "2026-10-12T01:19:20.595Z"
+}

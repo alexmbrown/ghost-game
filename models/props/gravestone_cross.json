@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.gravestone_cross",
+ "source": "assets/raw/models/gravestone_cross/mesh.glb",
+ "triangles": 1240,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dab-9ceb-71be-886b-fad9d24f6039",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 148344,
+ "created": "2026-10-12T01:14:09.697Z"
+}

@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"/ghost-game/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/ghost-game/_next/static/chunks/27y43se8_dcss.js"
+9:"/ghost-game/_next/static/chunks/34olkcd7ye81l.js"
+a:"/ghost-game/_next/static/chunks/1g4_j95xhbpke.js"
+b:I[29426,["$8","$9","$a"],"GameApp"]
+c:I[97367,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$2"],"$12"]
+14:I[27201,["$2"],"IconMark"]
+:HL["/ghost-game/_next/static/chunks/0a_8jamvwjer3.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lb",null,{}],[["$","script","script-0",{"src":"/ghost-game/_next/static/chunks/27y43se8_dcss.js","async":true}],["$","script","script-1",{"src":"/ghost-game/_next/static/chunks/34olkcd7ye81l.js","async":true}],["$","script","script-2",{"src":"/ghost-game/_next/static/chunks/1g4_j95xhbpke.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ghost-game/_next/static/chunks/0a_8jamvwjer3.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"Im7sDG_variable iMdlqq_variable l3V52W_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0913"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ghost Game"}],["$","meta","1",{"name":"description","content":"A 3D ghoul-duel party game: collect spirits, steal from rival trails, bank them home. Play with friends peer-to-peer."}],["$","meta","2",{"property":"og:title","content":"Ghost Game"}],["$","meta","3",{"property":"og:description","content":"A 3D ghoul-duel party game: collect spirits, steal from rival trails, bank them home. Play with friends peer-to-peer."}],["$","meta","4",{"property":"og:image","content":"https://alexmbrown.github.io/ghost-game/opengraph-image.jpg?opengraph-image.05_aermpyr04c.jpg"}],["$","meta","5",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","6",{"property":"og:image:width","content":"1200"}],["$","meta","7",{"property":"og:image:height","content":"630"}],["$","meta","8",{"property":"og:image:alt","content":"Ghost Game: Boo, Shambles, Rattles and Scorch on a moonlit graveyard hill"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ghost Game"}],["$","meta","12",{"name":"twitter:description","content":"A 3D ghoul-duel party game: collect spirits, steal from rival trails, bank them home. Play with friends peer-to-peer."}],["$","meta","13",{"name":"twitter:image","content":"https://alexmbrown.github.io/ghost-game/opengraph-image.jpg?opengraph-image.05_aermpyr04c.jpg"}],["$","meta","14",{"name":"twitter:image:alt","content":"Ghost Game: Boo, Shambles, Rattles and Scorch on a moonlit graveyard hill"}],["$","meta","15",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/ghost-game/icon.png?icon.1ytw27q3i_dou.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/ghost-game/apple-icon.png?apple-icon.40eoqvii6k15s.png","sizes":"180x180","type":"image/png"}],["$","$L14","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"vn_MQASqz2g0CDObpIXD1"}
+e:null
+6:300
+17:true
+6:C
+16:0
+5:"$undefined"
+15:"$undefined"
+f:"$undefined"

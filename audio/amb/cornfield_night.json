@@ -1,0 +1,13 @@
+{
+ "id": "amb.cornmaze",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Night cornfield ambience: rustling corn stalks in the wind, crickets, distant crow caws, a far-off windmill creak, seamless loop. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.4,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 30,
+  "loop": true
+ },
+ "bytes": 481115,
+ "created": "2026-10-11T02:04:28.121Z"
+}

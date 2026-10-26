@@ -1,0 +1,25 @@
+{
+ "id": "model.char.wisp",
+ "source": "assets/raw/models/wisp/mesh.glb",
+ "triangles": 6166,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dee-ce0f-7604-b94e-cc3f06624565",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 264868,
+ "created": "2026-10-12T13:06:43.555Z"
+}

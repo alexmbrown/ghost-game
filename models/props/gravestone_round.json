@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.gravestone_round",
+ "source": "assets/raw/models/gravestone_round/mesh.glb",
+ "triangles": 2059,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12b73-ac10-7428-b4c1-c05b2f6efb37",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 181140,
+ "created": "2026-10-11T14:53:58.305Z"
+}

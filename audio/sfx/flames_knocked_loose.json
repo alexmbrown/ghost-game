@@ -1,0 +1,12 @@
+{
+ "id": "sfx.knock",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Cartoon impact with glowing marbles scattering everywhere, bouncy and playful. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1
+ },
+ "bytes": 17180,
+ "created": "2026-10-11T02:04:12.708Z"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "vo.rattles.steal",
+ "voice": "rattles",
+ "voice_id": "Kwqwvj3ClOON6nDrQ07I",
+ "request": {
+  "text": "Nyeh-heh! Thanks for the spirits!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 46019,
+ "created": "2026-10-11T02:06:28.242Z"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tex.vfx_sparkle",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Stylized cartoon VFX sprite for a game, clean soft shapes, white/greyscale on a solid pure black background for additive blending, nothing else in the frame, no text. a single four-point star sparkle with a soft round glow, pure white, centered on a solid pure black background. One sparkle only: no characters, no faces.",
+ "bytes": 2652,
+ "created": "2026-10-12T13:44:36.911Z",
+ "master": "assets/raw/textures/vfx_sparkle.webp"
+}

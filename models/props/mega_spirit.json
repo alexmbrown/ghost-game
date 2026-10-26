@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.mega_spirit",
+ "source": "assets/raw/models/mega_spirit/mesh.glb",
+ "triangles": 832,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a1314c-5eaf-7300-b449-01772b36447a",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":800,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 63356,
+ "created": "2026-10-12T18:08:44.975Z"
+}

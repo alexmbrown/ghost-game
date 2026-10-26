@@ -1,0 +1,11 @@
+{
+ "id": "vo.victory",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "Victory!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 20106,
+ "created": "2026-10-11T02:06:21.795Z"
+}

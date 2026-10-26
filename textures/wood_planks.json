@@ -1,0 +1,11 @@
+{
+ "id": "tex.wood_planks",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Hand-painted stylized cartoon game texture for 'Ghost Game', a cute-spooky Halloween party game (Fortnite / Fall Guys level polish): chunky readable shapes, soft painterly shading, night-time palette of deep indigo and violet with soft glowing accents. Surface material only: absolutely no characters, creatures, faces, eyes, props, UI or text; flat even lighting, no perspective, no vignette, no border, fills the entire frame edge to edge. seamless tileable top-down texture of worn dark wooden floorboards with grain, nail holes and dust, cartoon hand-painted. No text.",
+ "bytes": 67846,
+ "created": "2026-10-12T13:44:37.718Z",
+ "master": "assets/raw/textures/wood_planks.webp"
+}

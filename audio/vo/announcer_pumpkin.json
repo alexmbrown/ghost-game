@@ -1,0 +1,11 @@
+{
+ "id": "vo.pumpkinSpawn",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "The Magic Pumpkin is ripe!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 44765,
+ "created": "2026-10-11T02:06:22.960Z"
+}

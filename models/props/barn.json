@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.barn",
+ "source": "assets/raw/models/barn/mesh.glb",
+ "triangles": 3432,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12daf-98c8-71ce-a5b6-075d9b3d658b",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 275924,
+ "created": "2026-10-12T01:18:38.605Z"
+}

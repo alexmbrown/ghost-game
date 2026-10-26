@@ -1,0 +1,16 @@
+{
+ "id": "ui.og_share",
+ "model": "gemini-3-pro-image",
+ "aspect": "16:9",
+ "styleAnchors": [
+  "assets/concepts/characters/boo.png",
+  "assets/concepts/characters/shambles.png",
+  "assets/concepts/characters/rattles.png",
+  "assets/concepts/characters/scorch.png"
+ ],
+ "keyed": false,
+ "prompt": "Polished cartoon key art for 'Ghost Game', a cute-spooky Halloween party game: stylized 3D render look, chunky rounded toy-like shapes, soft matte vinyl/clay materials, night-time palette of deep indigo and violet with glowing accents, Pixar / Fall Guys level polish. Full-bleed illustration filling the whole frame edge to edge: no UI, no buttons, no panels, no frames, no borders, no text, no logos, no watermark. Social share card: the four faction heroes from the reference images (Boo the ghost, Shambles the zombie, Rattles the skeleton, Scorch the imp) posing together in the lower right of a moonlit graveyard; the upper left is open night sky for a title to be added later. The reference images are the model sheets for Boo, Shambles, Rattles and Scorch (in that order): keep each hero exactly on-model.",
+ "bytes": 98754,
+ "created": "2026-10-12T13:44:33.763Z",
+ "master": "assets/raw/ui/og_share.webp"
+}

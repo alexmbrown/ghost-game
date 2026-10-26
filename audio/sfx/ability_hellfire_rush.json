@@ -1,0 +1,12 @@
+{
+ "id": "sfx.ability.hellfireRush",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Little demon charging: a fiery roar burst with crackling flames and a cheeky growl. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.4
+ },
+ "bytes": 23031,
+ "created": "2026-10-11T02:04:14.283Z"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "vo.shambles.ability",
+ "voice": "shambles",
+ "voice_id": "T4rGTycD4jDuGCE0tSX2",
+ "request": {
+  "text": "Graaab!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 26793,
+ "created": "2026-10-11T02:06:27.100Z"
+}

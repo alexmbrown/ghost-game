@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.bookshelf",
+ "source": "assets/raw/models/bookshelf/mesh.glb",
+ "triangles": 2294,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dab-1a3a-7740-93ba-dbc75c5335da",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 210352,
+ "created": "2026-10-12T01:14:00.777Z"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "model.char.boo",
+ "source": "assets/raw/models/boo/mesh.glb",
+ "triangles": 6258,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dee-cd8e-729c-b52a-5449ec50e9f1",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 218136,
+ "created": "2026-10-12T13:06:43.518Z"
+}

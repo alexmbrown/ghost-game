@@ -1,0 +1,11 @@
+{
+ "id": "vo.scorch.ability",
+ "voice": "scorch",
+ "voice_id": "X62GvES0uCq7oZ8k7YgK",
+ "request": {
+  "text": "[roar] Hellfire!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 44765,
+ "created": "2026-10-11T02:06:30.523Z"
+}

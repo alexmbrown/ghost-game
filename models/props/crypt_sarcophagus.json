@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.crypt_sarcophagus",
+ "source": "assets/raw/models/crypt_sarcophagus/mesh.glb",
+ "triangles": 1928,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da7-def6-753b-a1fe-07cacfa129aa",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 161536,
+ "created": "2026-10-12T01:10:05.640Z"
+}

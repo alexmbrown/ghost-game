@@ -1,0 +1,40 @@
+{
+ "id": "model.char.rattles",
+ "source": "assets/raw/models/rattles/animations.glb",
+ "triangles": 6278,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c4f-9a29-77bb-aaab-63112d241246",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c50-decb-7651-8afe-0fb03e9e48d1",
+  "animTask": "01a12c51-2a26-77ed-8495-1a980dd62107",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   421,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 765912,
+ "created": "2026-10-11T23:21:53.930Z"
+}

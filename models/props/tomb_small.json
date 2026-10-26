@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.tomb_small",
+ "source": "assets/raw/models/tomb_small/mesh.glb",
+ "triangles": 1486,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da8-a7ac-7684-b7b6-783b6d7987aa",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 220244,
+ "created": "2026-10-12T01:10:47.896Z"
+}

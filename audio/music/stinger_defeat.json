@@ -1,0 +1,12 @@
+{
+ "id": "music.defeat",
+ "request": {
+  "prompt": "Short comedic defeat stinger: sad trombone wah-wah with a spooky organ chord, ends cleanly. Instrumental only.",
+  "music_length_ms": 6000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "PKmMxmFK4BloN5loiQdn",
+ "bytes": 96593,
+ "created": "2026-10-11T02:06:54.003Z"
+}

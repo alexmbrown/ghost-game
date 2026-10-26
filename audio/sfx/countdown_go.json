@@ -1,0 +1,12 @@
+{
+ "id": "sfx.countdown.go",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Round start 'GO' cue: a warm, rounded, cheerful two-note chime on soft bells with a light sparkle, friendly, gentle attack, medium volume, not harsh or shrill. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1
+ },
+ "bytes": 17180,
+ "created": "2026-10-12T01:08:18.726Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "model.char.calavera",
+ "source": "assets/raw/models/calavera/animations.glb",
+ "triangles": 5995,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c51-8e7c-7751-bc00-08fc18fc938f",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c53-52f2-777c-a8da-f3cf84a29ebd",
+  "animTask": "01a12c53-9eb1-7731-a7f4-38fc0deb6737",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   421,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 883456,
+ "created": "2026-10-11T23:22:01.484Z"
+}

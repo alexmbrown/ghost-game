@@ -1,0 +1,25 @@
+{
+ "id": "model.char.wailey",
+ "source": "assets/raw/models/wailey/mesh.glb",
+ "triangles": 6269,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df0-160a-730a-b2bc-a3d10ab211f8",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 368856,
+ "created": "2026-10-12T13:07:44.108Z"
+}

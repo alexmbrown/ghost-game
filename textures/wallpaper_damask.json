@@ -1,0 +1,11 @@
+{
+ "id": "tex.wallpaper_damask",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Hand-painted stylized cartoon game texture for 'Ghost Game', a cute-spooky Halloween party game (Fortnite / Fall Guys level polish): chunky readable shapes, soft painterly shading, night-time palette of deep indigo and violet with soft glowing accents. Surface material only: absolutely no characters, creatures, faces, eyes, props, UI or text; flat even lighting, no perspective, no vignette, no border, fills the entire frame edge to edge. seamless tileable faded purple damask wallpaper pattern, cartoon hand-painted. No text.",
+ "bytes": 129858,
+ "created": "2026-10-12T13:44:37.548Z",
+ "master": "assets/raw/textures/wallpaper_damask.webp"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.spooky_pine",
+ "source": "assets/raw/models/spooky_pine/mesh.glb",
+ "triangles": 2087,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df6-567b-77c0-ab22-2e7099492af6",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 166672,
+ "created": "2026-10-12T02:35:30.651Z"
+}

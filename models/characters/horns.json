@@ -1,0 +1,40 @@
+{
+ "id": "model.char.horns",
+ "source": "assets/raw/models/horns/animations.glb",
+ "triangles": 6268,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c51-d127-74b8-9047-980ec5d3fd45",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c54-90e4-7465-a246-140a98b8c612",
+  "animTask": "01a12c54-ded3-7124-a7f0-88246ea135bb",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   512,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 812796,
+ "created": "2026-10-11T23:22:02.026Z"
+}

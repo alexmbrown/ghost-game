@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.pumpkin_patch",
+ "source": "assets/raw/models/pumpkin_patch/mesh.glb",
+ "triangles": 2087,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df7-1cf0-75af-b4ff-f3feecce704b",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 177376,
+ "created": "2026-10-12T02:36:45.906Z"
+}

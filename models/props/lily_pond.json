@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.lily_pond",
+ "source": "assets/raw/models/lily_pond/mesh.glb",
+ "triangles": 1542,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12daa-5337-7305-9edd-ea110c945aaf",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 147000,
+ "created": "2026-10-12T01:12:29.258Z"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "sfx.stun",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Cartoon bonk: a hollow pumpkin thump, spinning stars twinkle and a dizzy slide whistle. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.2
+ },
+ "bytes": 20106,
+ "created": "2026-10-11T02:04:11.806Z"
+}

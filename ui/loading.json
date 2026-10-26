@@ -1,0 +1,13 @@
+{
+ "id": "ui.loading",
+ "model": "gemini-3-pro-image",
+ "aspect": "16:9",
+ "styleAnchors": [
+  "assets/concepts/characters/boo.png"
+ ],
+ "keyed": false,
+ "prompt": "Polished cartoon key art for 'Ghost Game', a cute-spooky Halloween party game: stylized 3D render look, chunky rounded toy-like shapes, soft matte vinyl/clay materials, night-time palette of deep indigo and violet with glowing accents, Pixar / Fall Guys level polish. Full-bleed illustration filling the whole frame edge to edge: no UI, no buttons, no panels, no frames, no borders, no text, no logos, no watermark. Loading screen art: Boo the ghost from the reference image happily juggling three glowing violet spirits under a big full moon over a misty graveyard. Boo is centered in the lower half. Boo floats with no legs and no feet: only the wavy hem of the sheet, hovering above the ground. The reference image is the model sheet for Boo: keep Boo exactly on-model.",
+ "bytes": 79734,
+ "created": "2026-10-12T13:44:32.183Z",
+ "master": "assets/raw/ui/loading.webp"
+}

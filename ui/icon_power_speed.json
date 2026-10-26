@@ -1,0 +1,11 @@
+{
+ "id": "ui.icon_power_speed",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchor": null,
+ "keyed": true,
+ "prompt": "Stylized cartoon 3D game art for 'Ghost Game', a cute-spooky Halloween party game inspired by Google's Great Ghoul Duel doodle. Chunky, rounded, toy-like shapes with soft matte vinyl/clay materials, big expressive eyes, exaggerated proportions (big head, small body), friendly and goofy, never gory or scary. Night-time palette of deep indigo and violet with glowing accents. Faction colors: Ghosts spectral cyan #67e8f9, Zombies toxic lime #a3e635, Skeletons bone gold #fcd34d, Demons hellfire coral-red #f87171; neutral spirits violet #b48cff. Clean readable silhouettes, soft rim light, Pixar / Fall Guys / Fortnite level of charm and polish. Flat-shaded 2D game UI illustration in the same cartoon style, crisp edges, transparent-friendly plain background, no text unless specified. Power-up icon: lightning bolt with a little ghost tail, yellow, round badge. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject.",
+ "bytes": 11632,
+ "created": "2026-10-12T13:44:31.601Z",
+ "master": "assets/raw/ui/icon_power_speed.webp"
+}

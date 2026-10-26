@@ -1,0 +1,11 @@
+{
+ "id": "vo.boo.steal",
+ "voice": "boo",
+ "voice_id": "H8r0osvvqpKEiFIS9gdp",
+ "request": {
+  "text": "[giggles] Mine now!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 36824,
+ "created": "2026-10-11T02:06:24.487Z"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "sfx.ability.boneToss",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Throwing a spinning bone: quick wooden clack and a whirling whoosh. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.8
+ },
+ "bytes": 13836,
+ "created": "2026-10-11T02:04:13.979Z"
+}

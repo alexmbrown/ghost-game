@@ -1,0 +1,13 @@
+{
+ "id": "ui.portrait.boo",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [
+  "assets/concepts/characters/boo.png"
+ ],
+ "keyed": true,
+ "prompt": "Polished 2D game UI art for 'Ghost Game', a cute-spooky Halloween party game: glossy cartoon rendering with soft 3D shading, thick clean dark-indigo outline, chunky rounded toy-like shapes, Fall Guys / Brawl Stars level polish. Faction colors: Ghosts cyan #67e8f9, Zombies lime #a3e635, Skeletons gold #fcd34d, Demons coral-red #f87171, spirits violet #b48cff. Exactly ONE subject, centered with generous padding: not a sticker sheet, no extra items, no UI mockup, no text or letters unless specified. Head-and-shoulders portrait of Boo: a cute bedsheet ghost that floats: rounded white-cyan glowing sheet body whose wavy, scalloped hem ends in soft points hovering above the ground (no legs, no feet, no shoes), small mitten-like arms, huge round black eyes with sparkly highlights, tiny open-mouth grin, faint cyan inner glow. Draw the exact character from the reference image (same design, colors, outfit and proportions) as a head-and-shoulders portrait, three-quarter view, expressive, inside a circular badge: a dark violet vignette background inside a thick glowing ring of perfectly uniform width all the way around, colored cyan (#67e8f9), the Ghosts team color. Only the one circular badge, centered; nothing outside the circle, no text. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject. The reference image is the character model sheet: keep the character exactly on-model.",
+ "bytes": 20034,
+ "created": "2026-10-12T13:44:33.868Z",
+ "master": "assets/raw/ui/portraits/boo.webp"
+}

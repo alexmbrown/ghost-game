@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.iron_fence",
+ "source": "assets/raw/models/iron_fence/mesh.glb",
+ "triangles": 2563,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dab-9da5-73d5-8a3c-73c60f838765",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 126780,
+ "created": "2026-10-12T01:14:17.789Z"
+}

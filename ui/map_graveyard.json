@@ -1,0 +1,11 @@
+{
+ "id": "ui.map_graveyard",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "16:9",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Polished cartoon key art for 'Ghost Game', a cute-spooky Halloween party game: stylized 3D render look, chunky rounded toy-like shapes, soft matte vinyl/clay materials, night-time palette of deep indigo and violet with glowing accents, Pixar / Fall Guys level polish. Full-bleed illustration filling the whole frame edge to edge: no UI, no buttons, no panels, no frames, no borders, no text, no logos, no watermark. Map thumbnail: elevated three-quarter bird's-eye view of a moonlit graveyard arena with rows of crypts and gravestones, lanterns, and a pillared shrine in the center; a few tiny glowing violet spirits on the ground. The arena fills the frame edge to edge (no floating diorama, nothing outside the arena). No characters.",
+ "bytes": 118514,
+ "created": "2026-10-12T13:44:33.378Z",
+ "master": "assets/raw/ui/map_graveyard.webp"
+}

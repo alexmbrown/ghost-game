@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.shrine_pillar",
+ "source": "assets/raw/models/shrine_pillar/mesh.glb",
+ "triangles": 2078,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da8-67e3-733a-b4d9-7e8b387ec71a",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 110180,
+ "created": "2026-10-12T01:10:23.182Z"
+}

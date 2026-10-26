@@ -1,0 +1,11 @@
+{
+ "id": "tex.vfx_smoke",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Stylized cartoon VFX sprite for a game, clean soft shapes, white/greyscale on a solid pure black background for additive blending, nothing else in the frame, no text. a single soft round cartoon smoke puff made of three or four overlapping rounded blobs, white to light grey, centered on a solid pure black background. One puff only: no characters, no faces.",
+ "bytes": 1888,
+ "created": "2026-10-12T13:44:36.886Z",
+ "master": "assets/raw/textures/vfx_smoke.webp"
+}

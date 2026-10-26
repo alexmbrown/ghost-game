@@ -1,0 +1,40 @@
+{
+ "id": "model.char.bolt",
+ "source": "assets/raw/models/bolt/animations.glb",
+ "triangles": 6248,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c4d-c43a-718b-ac47-2e6457ad58b7",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c4f-095d-75ed-8912-c5876cff05d0",
+  "animTask": "01a12c4f-564d-72dc-9537-2546950b2431",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   255,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 782496,
+ "created": "2026-10-11T23:21:47.020Z"
+}

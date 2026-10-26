@@ -1,0 +1,11 @@
+{
+ "id": "vo.shambles.steal",
+ "voice": "shambles",
+ "voice_id": "T4rGTycD4jDuGCE0tSX2",
+ "request": {
+  "text": "Braaains... I mean, spirits!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 61066,
+ "created": "2026-10-11T02:06:26.574Z"
+}

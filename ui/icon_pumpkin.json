@@ -1,0 +1,13 @@
+{
+ "id": "ui.icon_pumpkin",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [
+  "assets/concepts/props/magic_pumpkin.png"
+ ],
+ "keyed": true,
+ "prompt": "Polished 2D game UI art for 'Ghost Game', a cute-spooky Halloween party game: glossy cartoon rendering with soft 3D shading, thick clean dark-indigo outline, chunky rounded toy-like shapes, Fall Guys / Brawl Stars level polish. Faction colors: Ghosts cyan #67e8f9, Zombies lime #a3e635, Skeletons gold #fcd34d, Demons coral-red #f87171, spirits violet #b48cff. Exactly ONE subject, centered with generous padding: not a sticker sheet, no extra items, no UI mockup, no text or letters unless specified. Icon of the golden Magic Pumpkin: a round glossy golden-orange pumpkin with a happy carved jack-o'-lantern face glowing from inside, a curly vine crown and a rainbow-shimmer glow around it. Just the pumpkin: no feet, no legs, no arms, no hands. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject. The reference is the Magic Pumpkin model sheet: draw that same pumpkin as an icon.",
+ "bytes": 28610,
+ "created": "2026-10-12T13:44:31.657Z",
+ "master": "assets/raw/ui/icon_pumpkin.webp"
+}

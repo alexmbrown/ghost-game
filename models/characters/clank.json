@@ -1,0 +1,25 @@
+{
+ "id": "model.char.clank",
+ "source": "assets/raw/models/clank/mesh.glb",
+ "triangles": 6224,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dee-ce1d-709f-a87f-92b44de2ba08",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 404296,
+ "created": "2026-10-12T13:06:43.607Z"
+}

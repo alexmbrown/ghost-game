@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.portal_ghosts",
+ "source": "assets/raw/models/portal_ghosts/mesh.glb",
+ "triangles": 3080,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da5-8bcc-76b0-866f-a20a4501671b",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 234800,
+ "created": "2026-10-12T01:07:41.235Z"
+}

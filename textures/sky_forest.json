@@ -1,0 +1,11 @@
+{
+ "id": "tex.sky_forest",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "21:9",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Hand-painted stylized cartoon game sky panorama for 'Ghost Game', a cute-spooky Halloween party game: soft painterly shading, night-time palette of deep indigo and violet with soft glowing accents. Background scenery only: no characters, creatures, faces, UI or text; fills the entire frame edge to edge, no border. equirectangular 360 night sky panorama over a misty pine forest: teal-green mist, stars, a pale full moon, jagged pine treeline silhouette along the bottom edge.",
+ "bytes": 230588,
+ "created": "2026-10-12T13:44:36.242Z",
+ "master": "assets/raw/textures/sky_forest.webp"
+}

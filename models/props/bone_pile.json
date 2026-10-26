@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.bone_pile",
+ "source": "assets/raw/models/bone_pile/mesh.glb",
+ "triangles": 1567,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dad-4873-7151-ba47-c0e5ac741f5b",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 91476,
+ "created": "2026-10-12T01:15:51.502Z"
+}

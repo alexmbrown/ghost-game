@@ -1,0 +1,11 @@
+{
+ "id": "vo.boo.bank",
+ "voice": "boo",
+ "voice_id": "H8r0osvvqpKEiFIS9gdp",
+ "request": {
+  "text": "Wheee! Banked!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 33062,
+ "created": "2026-10-11T02:06:24.928Z"
+}

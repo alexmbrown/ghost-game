@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.floating_book",
+ "source": "assets/raw/models/floating_book/mesh.glb",
+ "triangles": 1145,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a13045-fd80-74b0-b4df-ac7a0d0fe7a6",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 207628,
+ "created": "2026-10-12T13:24:28.472Z"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "amb.mansion",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Haunted mansion hallway at night: open airy room tone, soft wind gusting outside, occasional old floorboard creaks and a distant slow door creak, light rain tapping on window glass. Clear and dry, not muffled. No underwater sound, no bubbling, no deep rumble. Seamless loop. Wide, airy, natural ambience recording of the whole space, soft and even, no sudden loud sounds. No music, no speech, no voice.",
+  "prompt_influence": 0.4,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 30,
+  "loop": true
+ },
+ "bytes": 481115,
+ "created": "2026-10-12T01:08:27.573Z"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "sfx.pumpkin.get",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Grabbing a rainbow power-up pumpkin: invincibility jingle, rising sparkles, playful and triumphant. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.8
+ },
+ "bytes": 29301,
+ "created": "2026-10-11T02:04:14.515Z"
+}

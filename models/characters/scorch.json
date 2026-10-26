@@ -1,0 +1,40 @@
+{
+ "id": "model.char.scorch",
+ "source": "assets/raw/models/scorch/animations.glb",
+ "triangles": 6254,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c51-ae9c-728b-bbfe-a4d1fe29a64a",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c52-f2f4-74e6-9cb4-b73c408ce69b",
+  "animTask": "01a12c53-3e27-74fe-ae10-840f5a380650",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   512,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 682028,
+ "created": "2026-10-11T23:22:00.980Z"
+}

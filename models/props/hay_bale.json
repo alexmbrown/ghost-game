@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.hay_bale",
+ "source": "assets/raw/models/hay_bale/mesh.glb",
+ "triangles": 1070,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dae-3109-732a-84be-0534207ae885",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 172696,
+ "created": "2026-10-12T01:18:12.383Z"
+}
