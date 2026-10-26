@@ -1,0 +1,11 @@
+{
+ "id": "tex.cobblestone",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Hand-painted stylized cartoon game texture for 'Ghost Game', a cute-spooky Halloween party game (Fortnite / Fall Guys level polish): chunky readable shapes, soft painterly shading, night-time palette of deep indigo and violet with soft glowing accents. Surface material only: absolutely no characters, creatures, faces, eyes, props, UI or text; flat even lighting, no perspective, no vignette, no border, fills the entire frame edge to edge. seamless tileable top-down cartoon cobblestone path texture: rounded purple-grey stones of varied sizes, dark mossy gaps between them.",
+ "bytes": 97266,
+ "created": "2026-10-12T13:44:34.624Z",
+ "master": "assets/raw/textures/cobblestone.webp"
+}

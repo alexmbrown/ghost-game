@@ -1,0 +1,12 @@
+{
+ "id": "sfx.power",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Power-up unlocked: rising magical shimmer into a bright arcade level-up jingle. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.5
+ },
+ "bytes": 24703,
+ "created": "2026-10-11T02:04:13.109Z"
+}

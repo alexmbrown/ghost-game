@@ -1,0 +1,12 @@
+{
+ "id": "sfx.round.end",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "End of round: large resonant gong with a spooky organ chord tail. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 2.5
+ },
+ "bytes": 40586,
+ "created": "2026-10-11T02:04:15.681Z"
+}

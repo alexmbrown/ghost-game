@@ -1,0 +1,11 @@
+{
+ "id": "vo.three",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "Three!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 17598,
+ "created": "2026-10-11T02:06:23.386Z"
+}

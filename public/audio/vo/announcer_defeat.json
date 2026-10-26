@@ -1,0 +1,11 @@
+{
+ "id": "vo.defeat",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "Defeat... better luck next haunting.",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 54796,
+ "created": "2026-10-11T02:06:22.441Z"
+}

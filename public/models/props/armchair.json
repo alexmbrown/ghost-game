@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.armchair",
+ "source": "assets/raw/models/armchair/mesh.glb",
+ "triangles": 1496,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12db0-bcc3-7509-a15e-d904f7ebfa40",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 163696,
+ "created": "2026-10-12T01:19:38.175Z"
+}

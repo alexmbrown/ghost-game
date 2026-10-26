@@ -1,0 +1,11 @@
+{
+ "id": "ui.map_library",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "16:9",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Polished cartoon key art for 'Ghost Game', a cute-spooky Halloween party game: stylized 3D render look, chunky rounded toy-like shapes, soft matte vinyl/clay materials, night-time palette of deep indigo and violet with glowing accents, Pixar / Fall Guys level polish. Full-bleed illustration filling the whole frame edge to edge: no UI, no buttons, no panels, no frames, no borders, no text, no logos, no watermark. Map thumbnail: elevated three-quarter bird's-eye view into a roofless haunted library at night: towering bookshelf aisles, floating books, and a candle-lit reading room in the center; a few tiny glowing violet spirits in the aisles. The scene fills the frame edge to edge (no floating diorama, nothing outside the building). No characters.",
+ "bytes": 128498,
+ "created": "2026-10-12T13:44:33.494Z",
+ "master": "assets/raw/ui/map_library.webp"
+}

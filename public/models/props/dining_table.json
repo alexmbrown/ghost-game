@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.dining_table",
+ "source": "assets/raw/models/dining_table/mesh.glb",
+ "triangles": 1495,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df6-56ec-73e7-801d-a0e82f4e867c",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 143736,
+ "created": "2026-10-12T02:35:30.667Z"
+}

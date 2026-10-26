@@ -1,0 +1,40 @@
+{
+ "id": "model.char.wraps",
+ "source": "assets/raw/models/wraps/animations.glb",
+ "triangles": 6169,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c4d-86b7-758b-8415-0951ca2a1475",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c4e-e9f9-7656-b04e-b1e5b0d568fe",
+  "animTask": "01a12c4f-3670-7197-92d6-df647b2f9a8c",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   255,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 767100,
+ "created": "2026-10-11T23:21:47.130Z"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.iron_gate",
+ "source": "assets/raw/models/iron_gate/mesh.glb",
+ "triangles": 2547,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dac-7fab-75ef-a8ce-9a5e59eba403",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 140952,
+ "created": "2026-10-12T01:15:01.088Z"
+}

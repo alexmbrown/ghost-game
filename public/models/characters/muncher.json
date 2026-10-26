@@ -1,0 +1,40 @@
+{
+ "id": "model.char.muncher",
+ "source": "assets/raw/models/muncher/animations.glb",
+ "triangles": 6265,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c4d-c46f-7010-99ea-fa7579d03933",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c4f-09a3-7133-a70f-02741459c4fc",
+  "animTask": "01a12c4f-5f29-71b7-b219-8517ba22fc8a",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   255,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 766464,
+ "created": "2026-10-11T23:21:55.594Z"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.coffin",
+ "source": "assets/raw/models/coffin/mesh.glb",
+ "triangles": 1166,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df6-56f4-75c1-a646-a2f8e903ab40",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 133568,
+ "created": "2026-10-12T02:35:38.695Z"
+}

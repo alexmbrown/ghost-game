@@ -1,0 +1,11 @@
+{
+ "id": "vo.scorch.stolen",
+ "voice": "scorch",
+ "voice_id": "X62GvES0uCq7oZ8k7YgK",
+ "request": {
+  "text": "You little—! Give 'em back!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 41839,
+ "created": "2026-10-11T02:06:30.206Z"
+}

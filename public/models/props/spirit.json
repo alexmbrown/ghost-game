@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.spirit",
+ "source": "assets/raw/models/spirit/mesh.glb",
+ "triangles": 417,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a1314c-5e33-75bf-85d8-a17cfedb671b",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":400,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 55168,
+ "created": "2026-10-12T18:08:44.957Z"
+}

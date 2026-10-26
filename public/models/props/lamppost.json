@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.lamppost",
+ "source": "assets/raw/models/lamppost/mesh.glb",
+ "triangles": 1549,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dac-a29b-71f1-b410-10d360b26ff5",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 106052,
+ "created": "2026-10-12T01:14:52.114Z"
+}

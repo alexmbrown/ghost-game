@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.portal_demons",
+ "source": "assets/raw/models/portal_demons/mesh.glb",
+ "triangles": 3117,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da6-b59e-72a3-9af1-ad63ffdf92eb",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 175696,
+ "created": "2026-10-12T01:08:49.363Z"
+}

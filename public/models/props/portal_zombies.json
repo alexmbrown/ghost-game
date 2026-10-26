@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.portal_zombies",
+ "source": "assets/raw/models/portal_zombies/mesh.glb",
+ "triangles": 3118,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da5-8bcb-767c-a883-1f32f582e512",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 289136,
+ "created": "2026-10-12T01:07:41.340Z"
+}

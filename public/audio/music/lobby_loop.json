@@ -1,0 +1,12 @@
+{
+ "id": "music.lobby",
+ "request": {
+  "prompt": "Laid-back waiting-room loop: spooky lounge jazz with upright bass, vibraphone, soft organ, finger snaps, seamless loop. Instrumental only.",
+  "music_length_ms": 75000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "wclHbIOFk4Xn4Bin9bIF",
+ "bytes": 1200841,
+ "created": "2026-10-12T01:08:37.332Z"
+}

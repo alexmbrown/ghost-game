@@ -1,0 +1,12 @@
+{
+ "id": "music.draw",
+ "request": {
+  "prompt": "Short neutral 'it's a tie' stinger: quizzical pizzicato and a questioning theremin note. Instrumental only.",
+  "music_length_ms": 5000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "flIo2qDDu90aGi9WOX3a",
+ "bytes": 80711,
+ "created": "2026-10-12T01:08:40.140Z"
+}

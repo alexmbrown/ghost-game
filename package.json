@@ -1,0 +1,50 @@
+{
+  "name": "ghost-game",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A 3D browser-based multiplayer hero-shooter / ghoul-duel, served fully static with serverless WebRTC multiplayer.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test src/**/*.test.ts",
+    "sim": "tsx scripts/botsim.ts",
+    "assets": "tsx scripts/assets.ts",
+    "assets:index": "tsx scripts/assets.ts --index",
+    "assets:index:audio": "tsx scripts/assets.ts --index=audio",
+    "gen:audio": "tsx scripts/gen/audio.ts",
+    "gen:images": "tsx scripts/gen/images.ts",
+    "gen:models": "tsx scripts/gen/models.ts"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "@react-three/postprocessing": "^3.2.0",
+    "next": "^16.4.0",
+    "react": "~19.3.0",
+    "react-dom": "~19.3.0",
+    "three": "^0.186.1",
+    "trystero": "^0.26.0",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/extensions": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.0",
+    "meshoptimizer": "^1.3.0",
+    "sharp": "^0.35.5",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}

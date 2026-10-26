@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.boulder",
+ "source": "assets/raw/models/boulder/mesh.glb",
+ "triangles": 1046,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12daa-b5e7-776a-8a3b-0856bb5d09b3",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 127720,
+ "created": "2026-10-12T01:13:02.660Z"
+}

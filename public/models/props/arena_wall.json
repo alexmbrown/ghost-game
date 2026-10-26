@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.arena_wall",
+ "source": "assets/raw/models/arena_wall/mesh.glb",
+ "triangles": 2088,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da9-8e11-75d4-bb63-17b4df43e64e",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 180628,
+ "created": "2026-10-12T01:11:54.927Z"
+}

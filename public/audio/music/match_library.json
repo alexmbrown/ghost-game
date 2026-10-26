@@ -1,0 +1,12 @@
+{
+ "id": "music.match.library",
+ "request": {
+  "prompt": "Energetic gameplay music for a cartoon chase through a haunted library: celesta, bassoon and pizzicato strings, ticking-clock percussion, sneaky and mysterious but upbeat, 140 bpm, seamless loop. Instrumental only.",
+  "music_length_ms": 150000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "kqsghrj79pnx3BYHd1Gt",
+ "bytes": 2400802,
+ "created": "2026-10-11T02:07:28.195Z"
+}

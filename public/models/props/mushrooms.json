@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.mushrooms",
+ "source": "assets/raw/models/mushrooms/mesh.glb",
+ "triangles": 1249,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dad-6bad-7683-ac73-2d430010d680",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 126704,
+ "created": "2026-10-12T01:16:24.654Z"
+}

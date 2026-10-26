@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.mossy_log",
+ "source": "assets/raw/models/mossy_log/mesh.glb",
+ "triangles": 1556,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12daa-945d-759f-8ad1-417fe6de4fbf",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 173420,
+ "created": "2026-10-12T01:13:02.685Z"
+}

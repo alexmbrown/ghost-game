@@ -1,0 +1,12 @@
+{
+ "id": "sfx.step.skeleton",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "One single light bony footstep: the short hollow wooden tock of a cartoon skeleton foot touching the ground once. Exactly one impact, no echo, no second step. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.5
+ },
+ "bytes": 8821,
+ "created": "2026-10-12T01:08:21.639Z"
+}

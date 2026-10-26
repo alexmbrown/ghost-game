@@ -1,0 +1,12 @@
+{
+ "id": "sfx.flame.bankSmall",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Depositing treasure into a magic portal: whooshing swirl into a pleasant three-note chime, cartoon game reward. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.2
+ },
+ "bytes": 20106,
+ "created": "2026-10-11T02:04:10.382Z"
+}

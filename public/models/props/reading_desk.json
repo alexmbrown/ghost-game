@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.reading_desk",
+ "source": "assets/raw/models/reading_desk/mesh.glb",
+ "triangles": 1483,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12db0-dd83-7025-9915-870d7df0688c",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 149640,
+ "created": "2026-10-12T01:19:54.212Z"
+}

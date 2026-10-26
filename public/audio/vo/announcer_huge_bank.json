@@ -1,0 +1,11 @@
+{
+ "id": "vo.bigBank",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "[impressed] Huge bank!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 34316,
+ "created": "2026-10-11T02:06:36.019Z"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "model.char.shambles",
+ "source": "assets/raw/models/shambles/animations.glb",
+ "triangles": 6255,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12b70-b4e5-76ec-92c3-8e7edf05072c",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12b72-9afb-71a2-bb11-080b90fb0945",
+  "animTask": "01a12b72-e76d-7082-90ca-1a30b82557d3",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   255,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 789764,
+ "created": "2026-10-11T23:21:47.075Z"
+}

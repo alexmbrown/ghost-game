@@ -1,0 +1,40 @@
+{
+ "id": "model.char.calico",
+ "source": "assets/raw/models/calico/animations.glb",
+ "triangles": 6209,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c4f-ba2f-752e-9322-269df9fc84fb",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c50-deb4-7469-b1d1-3fcf405e0ef6",
+  "animTask": "01a12c51-2ae5-720a-8ff7-72205160b37a",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   421,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 810240,
+ "created": "2026-10-11T23:21:55.547Z"
+}

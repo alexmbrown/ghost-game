@@ -1,0 +1,11 @@
+{
+ "id": "vo.hurry",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "Twenty seconds left! Bank those spirits!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 63991,
+ "created": "2026-10-11T02:06:20.956Z"
+}

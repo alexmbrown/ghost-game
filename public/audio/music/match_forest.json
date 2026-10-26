@@ -1,0 +1,12 @@
+{
+ "id": "music.match.forest",
+ "request": {
+  "prompt": "Energetic gameplay music for a cartoon chase through a spooky night forest: spooky folk with hand drums, wooden flutes, eerie whistles and plucked mandolin, 140 bpm, playful and adventurous, seamless loop. Instrumental only.",
+  "music_length_ms": 150000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "zpwOuGCPFES6rQKKOcpK",
+ "bytes": 2400802,
+ "created": "2026-10-11T02:07:09.876Z"
+}

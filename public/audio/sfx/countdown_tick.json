@@ -1,0 +1,12 @@
+{
+ "id": "sfx.countdown.tick",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Countdown tick: one soft, muted wooden tick like a gentle clock tick or a soft woodblock tap, short, low and pleasant, not piercing, no ringing tail. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.5
+ },
+ "bytes": 8821,
+ "created": "2026-10-12T01:08:19.653Z"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tex.corn_card",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": true,
+ "prompt": "Hand-painted stylized cartoon game art for 'Ghost Game', a cute-spooky Halloween party game: chunky readable shapes, soft painterly shading, night-time palette. Made for an alpha-cut billboard card: no characters, no creatures, no faces, no text. front view of a dense row of tall cartoon corn stalks with tassels and broad leaves, dark green-teal at night with violet rim light; the row spans the full width of the frame, bases along the bottom edge. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject.",
+ "bytes": 227878,
+ "created": "2026-10-12T13:44:34.820Z",
+ "master": "assets/raw/textures/corn_card.webp"
+}

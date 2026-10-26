@@ -1,0 +1,11 @@
+{
+ "id": "vo.rattles.ability",
+ "voice": "rattles",
+ "voice_id": "Kwqwvj3ClOON6nDrQ07I",
+ "request": {
+  "text": "Catch!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 15090,
+ "created": "2026-10-11T02:06:28.603Z"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.grandfather_clock",
+ "source": "assets/raw/models/grandfather_clock/mesh.glb",
+ "triangles": 1510,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df7-3c54-764f-8c16-e3d04c44d7c2",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 133228,
+ "created": "2026-10-12T02:36:37.708Z"
+}

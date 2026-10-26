@@ -1,0 +1,11 @@
+{
+ "id": "ui.keyart_lobby",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "16:9",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Polished cartoon key art for 'Ghost Game', a cute-spooky Halloween party game: stylized 3D render look, chunky rounded toy-like shapes, soft matte vinyl/clay materials, night-time palette of deep indigo and violet with glowing accents, Pixar / Fall Guys level polish. Full-bleed illustration filling the whole frame edge to edge: no UI, no buttons, no panels, no frames, no borders, no text, no logos, no watermark. Lobby background: a cozy haunted mansion foyer at night with a grand staircase, candles, cobwebs and four tall hanging faction banners (cyan ghost, lime zombie, gold skull, coral imp emblems, no lettering). Scenery only, no characters.",
+ "bytes": 162082,
+ "created": "2026-10-12T13:44:31.848Z",
+ "master": "assets/raw/ui/keyart_lobby.webp"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "vo.scorch.bank",
+ "voice": "scorch",
+ "voice_id": "X62GvES0uCq7oZ8k7YgK",
+ "request": {
+  "text": "Into the fire they go!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 39332,
+ "created": "2026-10-11T02:06:30.325Z"
+}

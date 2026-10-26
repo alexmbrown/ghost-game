@@ -1,0 +1,12 @@
+{
+ "id": "sfx.step.ghost",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Very soft short airy whoosh of a floating ghost moving. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.5
+ },
+ "bytes": 8821,
+ "created": "2026-10-11T02:04:19.195Z"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "sfx.pumpkin.spawn",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "A magical pumpkin appearing: soft thud, sparkly chime and a spooky little organ flourish. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 1.5
+ },
+ "bytes": 24703,
+ "created": "2026-10-11T02:04:17.466Z"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "vo.megaSpawn",
+ "voice": "announcer",
+ "voice_id": "7yZMQAIxLYkAVzx6fyUN",
+ "request": {
+  "text": "A Mega-Spirit appeared! Catch it if you can!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 63991,
+ "created": "2026-10-11T02:06:22.656Z"
+}

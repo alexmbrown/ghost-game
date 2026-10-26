@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.scarecrow",
+ "source": "assets/raw/models/scarecrow/mesh.glb",
+ "triangles": 2077,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dae-b1ba-70e2-9665-3743c5bff967",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 194936,
+ "created": "2026-10-12T01:17:23.831Z"
+}

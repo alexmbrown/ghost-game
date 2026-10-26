@@ -1,0 +1,13 @@
+{
+ "id": "ui.portrait.muncher",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [
+  "assets/concepts/characters/muncher.png"
+ ],
+ "keyed": true,
+ "prompt": "Polished 2D game UI art for 'Ghost Game', a cute-spooky Halloween party game: glossy cartoon rendering with soft 3D shading, thick clean dark-indigo outline, chunky rounded toy-like shapes, Fall Guys / Brawl Stars level polish. Faction colors: Ghosts cyan #67e8f9, Zombies lime #a3e635, Skeletons gold #fcd34d, Demons coral-red #f87171, spirits violet #b48cff. Exactly ONE subject, centered with generous padding: not a sticker sheet, no extra items, no UI mockup, no text or letters unless specified. Head-and-shoulders portrait of Muncher: a hunchbacked ghoul with oversized buck teeth, pointy ears, ragged overalls, long arms, wide grin. Draw the exact character from the reference image (same design, colors, outfit and proportions) as a head-and-shoulders portrait, three-quarter view, expressive, inside a circular badge: a dark violet vignette background inside a thick glowing ring of perfectly uniform width all the way around, colored lime green (#a3e635), the Zombies team color. Only the one circular badge, centered; nothing outside the circle, no text. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject. The reference image is the character model sheet: keep the character exactly on-model.",
+ "bytes": 28438,
+ "created": "2026-10-12T13:44:34.151Z",
+ "master": "assets/raw/ui/portraits/muncher.webp"
+}

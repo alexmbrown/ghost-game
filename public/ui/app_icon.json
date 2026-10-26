@@ -1,0 +1,13 @@
+{
+ "id": "ui.app_icon",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [
+  "assets/concepts/characters/boo.png"
+ ],
+ "keyed": true,
+ "prompt": "Polished 2D game UI art for 'Ghost Game', a cute-spooky Halloween party game: glossy cartoon rendering with soft 3D shading, thick clean dark-indigo outline, chunky rounded toy-like shapes, Fall Guys / Brawl Stars level polish. Faction colors: Ghosts cyan #67e8f9, Zombies lime #a3e635, Skeletons gold #fcd34d, Demons coral-red #f87171, spirits violet #b48cff. Exactly ONE subject, centered with generous padding: not a sticker sheet, no extra items, no UI mockup, no text or letters unless specified. App icon: Boo the cute ghost's face (from the reference image) filling a rounded-square tile with a deep indigo-to-violet background, bold simple shapes readable at 32px. The tile floats in the middle of the frame with a wide even margin on all four sides; no floor, no ground shadow, no reflection under it. Isolated on a perfectly flat, solid pure magenta (#FF00FF) background filling the whole frame, no gradient, no shadow on the background, no magenta anywhere on the subject. The reference image is the model sheet for Boo: keep Boo exactly on-model.",
+ "bytes": 17696,
+ "created": "2026-10-12T13:44:29.489Z",
+ "master": "assets/raw/ui/app_icon.webp"
+}

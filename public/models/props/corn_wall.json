@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.corn_wall",
+ "source": "assets/raw/models/corn_wall/mesh.glb",
+ "triangles": 3003,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da9-2dc1-7701-80a8-2bc5f1e82740",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3000,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 260300,
+ "created": "2026-10-12T01:11:38.268Z"
+}

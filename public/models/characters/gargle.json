@@ -1,0 +1,40 @@
+{
+ "id": "model.char.gargle",
+ "source": "assets/raw/models/gargle/animations.glb",
+ "triangles": 6242,
+ "clips": [
+  "idle",
+  "run",
+  "walk",
+  "cast",
+  "hit",
+  "stunned",
+  "victory",
+  "defeat",
+  "dance"
+ ],
+ "meshy": {
+  "credits": {
+   "mesh": 30,
+   "rig": 5,
+   "animations": 27
+  },
+  "meshTask": "01a12c53-c081-7128-b934-8eb32dd3c9f7",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":6000,\"pose_mode\":\"a-pose\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}",
+  "rigTask": "01a12c55-c2e9-72a3-891a-ddd014aa6ac5",
+  "animTask": "01a12c56-130b-743b-85ba-b3ed6f21e5ec",
+  "animActionIds": [
+   0,
+   14,
+   123,
+   512,
+   178,
+   391,
+   59,
+   368,
+   22
+  ]
+ },
+ "bytes": 744252,
+ "created": "2026-10-11T23:22:04.058Z"
+}

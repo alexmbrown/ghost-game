@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.jack_o_lantern",
+ "source": "assets/raw/models/jack_o_lantern/mesh.glb",
+ "triangles": 1252,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da5-8b41-7135-ace8-31532af3f125",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 116332,
+ "created": "2026-10-12T01:07:49.603Z"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.dead_tree",
+ "source": "assets/raw/models/dead_tree/mesh.glb",
+ "triangles": 2616,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da8-e947-7166-9e0c-56a0ca6d510e",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":2500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 222432,
+ "created": "2026-10-12T01:11:12.664Z"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "sfx.flame.pickup",
+ "model": "eleven_text_to_sound_v2",
+ "request": {
+  "text": "Cute magical pickup chime: a soft bubbly 'bloop' with a sparkly twinkle, collecting a glowing spirit, cartoon game. Clean, dry, close-mic cartoon video game sound effect. No background music, no speech, no voice.",
+  "prompt_influence": 0.5,
+  "model_id": "eleven_text_to_sound_v2",
+  "duration_seconds": 0.6
+ },
+ "bytes": 10493,
+ "created": "2026-10-11T02:04:10.388Z"
+}

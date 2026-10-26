@@ -1,0 +1,12 @@
+{
+ "id": "music.match.graveyard",
+ "request": {
+  "prompt": "Energetic gameplay music for a fast cartoon chase through a moonlit graveyard: driving staccato strings, playful brass stabs, xylophone runs and a bouncy pipe organ, upbeat 140 bpm, mischievous Halloween party energy, seamless loop. Instrumental only.",
+  "music_length_ms": 150000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "LGQc8MdjkzfgfaTkLR6c",
+ "bytes": 2400802,
+ "created": "2026-10-12T01:08:42.780Z"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.bone_projectile",
+ "source": "assets/raw/models/bone_projectile/mesh.glb",
+ "triangles": 524,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12da7-bf83-73bd-b4df-7dea35526046",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 62480,
+ "created": "2026-10-12T01:09:32.468Z"
+}

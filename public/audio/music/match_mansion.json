@@ -1,0 +1,12 @@
+{
+ "id": "music.match.mansion",
+ "request": {
+  "prompt": "Energetic gameplay music for a cartoon chase through a haunted mansion: bouncy waltz-time harpsichord and pipe organ, plucky strings, playful ghostly choir oohs, 140 bpm feel, mischievous and fun, seamless loop. Instrumental only.",
+  "music_length_ms": 150000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "XWSUbG6r2EnNOxJdLAuY",
+ "bytes": 2400802,
+ "created": "2026-10-11T02:07:07.953Z"
+}

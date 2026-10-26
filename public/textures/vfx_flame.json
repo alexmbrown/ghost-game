@@ -1,0 +1,11 @@
+{
+ "id": "tex.vfx_flame",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchors": [],
+ "keyed": false,
+ "prompt": "Stylized cartoon VFX sprite for a game, clean soft shapes, white/greyscale on a solid pure black background for additive blending, nothing else in the frame, no text. a single soft teardrop-shaped wisp of spirit fire with a curling pointed tip, pure white glowing core fading to grey edges, centered on a solid pure black background, for additive blending. One shape only: no face, no eyes, no characters.",
+ "bytes": 1720,
+ "created": "2026-10-12T13:44:36.863Z",
+ "master": "assets/raw/textures/vfx_flame.webp"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.globe",
+ "source": "assets/raw/models/globe/mesh.glb",
+ "triangles": 1231,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12db1-61b3-7247-b012-db24d299dce7",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1200,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 264504,
+ "created": "2026-10-12T01:20:27.881Z"
+}

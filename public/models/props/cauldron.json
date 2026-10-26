@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.cauldron",
+ "source": "assets/raw/models/cauldron/mesh.glb",
+ "triangles": 1568,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12dad-abc1-7532-bbc9-d78a0a070808",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":1500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 107840,
+ "created": "2026-10-12T01:16:32.683Z"
+}

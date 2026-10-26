@@ -1,0 +1,15 @@
+{
+ "id": "model.prop.windmill",
+ "source": "assets/raw/models/windmill/mesh.glb",
+ "triangles": 3293,
+ "clips": [],
+ "meshy": {
+  "credits": {
+   "mesh": 30
+  },
+  "meshTask": "01a12df7-1cf7-71af-9b98-c9a98fa768f0",
+  "meshSettings": "{\"ai_model\":\"meshy-7.1\",\"should_remesh\":true,\"topology\":\"triangle\",\"target_polycount\":3500,\"pose_mode\":\"\",\"should_texture\":true,\"enable_pbr\":false,\"texture_resolution\":\"2k\",\"target_formats\":[\"glb\"]}"
+ },
+ "bytes": 286884,
+ "created": "2026-10-12T02:37:18.733Z"
+}

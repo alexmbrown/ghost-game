@@ -1,0 +1,12 @@
+{
+ "id": "music.match.cornmaze",
+ "request": {
+  "prompt": "Energetic gameplay music for a chase through a haunted corn maze: spooky bluegrass with banjo, fiddle, washboard, jaw harp and theremin, 140 bpm, seamless loop. Instrumental only.",
+  "music_length_ms": 150000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "Y4whWhSrxLjnrThulD4w",
+ "bytes": 2400802,
+ "created": "2026-10-11T02:06:51.825Z"
+}

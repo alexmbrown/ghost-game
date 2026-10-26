@@ -1,0 +1,12 @@
+{
+ "id": "music.victory",
+ "request": {
+  "prompt": "Short triumphant victory fanfare stinger: brass, cymbal swell, celebratory spooky organ flourish, ends cleanly. Instrumental only.",
+  "music_length_ms": 6000,
+  "model_id": "music_v2_5",
+  "force_instrumental": true
+ },
+ "songId": "qVCsLrKl6Z010xr9E1Co",
+ "bytes": 96593,
+ "created": "2026-10-11T02:06:54.699Z"
+}

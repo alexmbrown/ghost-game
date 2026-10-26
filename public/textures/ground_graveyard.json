@@ -1,0 +1,11 @@
+{
+ "id": "tex.ground_graveyard",
+ "model": "gemini-3.1-flash-image",
+ "aspect": "1:1",
+ "styleAnchor": null,
+ "keyed": false,
+ "prompt": "Stylized cartoon 3D game art for 'Ghost Game', a cute-spooky Halloween party game inspired by Google's Great Ghoul Duel doodle. Chunky, rounded, toy-like shapes with soft matte vinyl/clay materials, big expressive eyes, exaggerated proportions (big head, small body), friendly and goofy, never gory or scary. Night-time palette of deep indigo and violet with glowing accents. Faction colors: Ghosts spectral cyan #67e8f9, Zombies toxic lime #a3e635, Skeletons bone gold #fcd34d, Demons hellfire coral-red #f87171; neutral spirits violet #b48cff. Clean readable silhouettes, soft rim light, Pixar / Fall Guys / Fortnite level of charm and polish. seamless tileable top-down ground texture: dark mossy graveyard dirt with grass tufts, pebbles and fallen leaves, cartoon hand-painted. No text.",
+ "bytes": 80340,
+ "created": "2026-10-12T13:44:35.153Z",
+ "master": "assets/raw/textures/ground_graveyard.webp"
+}

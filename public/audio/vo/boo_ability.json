@@ -1,0 +1,11 @@
+{
+ "id": "vo.boo.ability",
+ "voice": "boo",
+ "voice_id": "H8r0osvvqpKEiFIS9gdp",
+ "request": {
+  "text": "[whoosh] Boo!",
+  "model_id": "eleven_v4"
+ },
+ "bytes": 21359,
+ "created": "2026-10-11T02:06:24.959Z"
+}
